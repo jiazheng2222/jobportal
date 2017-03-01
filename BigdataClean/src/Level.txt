@@ -1,0 +1,8 @@
+Entry	/	Entry Level	/	General	/	Entry
+Middle	/	Middle	/	Middle	/	Middle
+Middle	/	Middle level	/	Middle	/	Middle
+Senior	/	Senior	/	Senior	/	Senior
+Senior	/	Senior level	/	Senior	/	Senior
+Top	/	Top	/	Top	/	Top
+Top	/	Top level	/	Top	/	Top
+Not Specified	/		/		/	Not Specified

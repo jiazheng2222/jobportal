@@ -1,0 +1,31 @@
+Fetch data:
+1. jobsdb
+project (jobsdb - industry): get the industry and their links, export the link list from the database and save as links.txt
+project (jobsdb - links): get all the position list. Here I use the links.txt of industry
+project (jobsdb - detail): get the current position detail
+
+2. recruit
+project (recruit - industry): get the industry and their links, export the link list from the database and save as links.txt
+project (recruit - position): get all the position list. I also save many attributes for use.
+project (recruit - detail): get the current position detail
+
+3. jiujik
+project (jiujik - industry): get the industry and their links, export the link list from the database and save as links.txt
+project (jiujik - links): get all the position list. I also save many attributes for use.
+project (jiujik - detail): get the current position detail
+
+4. glassdoor
+project (glassdoor - company): get the company detail
+project (glassdoor - industry): get the industry and their links, including the salary (USD) and number of positions.
+
+Entity Resolution:
+1. Data Clean
+project (BigdataClean): 
+	ParseData1.py to parse jobsdb
+	ParseData2.py to parse jiujik
+	ParseData3.py to parse recruit
+2. Statistics
+	Code in the Statistics filefolder.
+	
+
+	

@@ -1,0 +1,11 @@
+Form 5 or below	/	Primary	/	Below F.5	/	Form 5 or below
+Form 5 or below	/	Form 3	/	Below F.5	/	Form 5 or below
+High School / Secondary School	/	Matriculated	/	F.5 or above	/	High School / Secondary School
+High School / Secondary School	/	Matriculated	/	F.7 or above	/	High School / Secondary School
+High School / Secondary School	/	Matriculated	/	DSE	/	High School / Secondary School
+Diploma / Certificate	/	Non-Degree Tertiary	/	Diploma	/	Diploma / Certificate
+Diploma / Certificate	/	School Certificate	/	Certificate	/	Diploma / Certificate
+Associate Degree / Bachelor Degree	/	Degree	/	Associate Degree / Higher Diploma	/	Associate Degree
+Associate Degree / Bachelor Degree	/	Degree	/	Bachelor	/	Bachelor Degree
+Postgraduate	/	Postgraduate	/	MBA / Master / or above	/	Master Degree
+NA	/	(N/A)	/	--	/	Not applicable

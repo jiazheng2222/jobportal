@@ -1,0 +1,3 @@
+Get the symbol!
+SELECT position, links FROM jobsdb.positiondetail where position like '%&#%' and position not like '%&#47;%' and position not like '%&#40;%' and position not like '%&#41;%' and position not like '%&#8211;%' and position not like '%&#38;%' and position not like '%&#39;%' and position not like '%&#40;%' and position not like '%&#58;%' and position not like '%&#59;%'  and position not like '%&#43;%'  and position not like '%&#92;%'  and position not like '%&#64;%'  and position not like '%&#33;%'and position not like '%&#91;%' and position not like '%&#93;%' and position not like '%&#36;%'
+

@@ -1,0 +1,106 @@
+Less than 1	/		/	0 - 10	/	Less than 1
+Less than 1	/		/	0 - 15	/	Less than 1
+Less than 1	/		/	0 - 2	/	Less than 1
+Less than 1	/		/	0 - 3	/	Less than 1
+Less than 1	/		/	0 - 4	/	Less than 1
+Less than 1	/		/	0 - 5	/	Less than 1
+Less than 1	/		/	0 - 8	/	Less than 1
+1	/	1 year	/	1	/	1
+1	/		/	1 or above	/	1
+1	/		/	1-2	/	1
+1	/		/	1-3	/	1
+1	/		/	1-4	/	1
+1	/		/	1-5	/	1
+1	/		/	1-6	/	1
+1	/		/	1-7	/	1
+1	/		/	1-8	/	1
+1	/		/	1-10	/	1
+1	/		/	1-15	/	1
+2	/	2 years	/	2	/	2
+2	/		/	2 or above	/	2
+2	/		/	2-3	/	2
+2	/		/	2-4	/	2
+2	/		/	2-5	/	2
+2	/		/	2-6	/	2
+2	/		/	2-7	/	2
+2	/		/	2-8	/	2
+2	/		/	2-9	/	2
+2	/		/	2-10	/	2
+2	/		/	2-12	/	2
+2	/		/	2-13	/	2
+2	/		/	2-14	/	2
+2	/		/	2-15	/	2
+3	/	3 years	/	3	/	3
+3	/		/	3 or above	/	3
+3	/		/	3-10	/	3
+3	/		/	3-12	/	3
+3	/		/	3-13	/	3
+3	/		/	3-15	/	3
+3	/		/	3-18	/	3
+3	/		/	3-4	/	3
+3	/		/	3-5	/	3
+3	/		/	3-6	/	3
+3	/		/	3-7	/	3
+3	/		/	3-8	/	3
+3	/		/	3-9	/	3
+4	/	4 years	/	4	/	4
+4	/		/	4 or above	/	4
+4	/		/	4-10	/	4
+4	/		/	4-15	/	4
+4	/		/	4-5	/	4
+4	/		/	4-6	/	4
+4	/		/	4-7	/	4
+4	/		/	4-8	/	4
+4	/		/	4-9	/	4
+5	/		/	5	/	5
+5	/	5 years	/	5 or above	/	5
+5	/		/	5-10	/	5
+5	/		/	5-12	/	5
+5	/		/	5-15	/	5
+5	/		/	5-19	/	5
+5	/		/	5-6	/	5
+5	/		/	5-7	/	5
+5	/		/	5-8	/	5
+6	/	6 years	/	6	/	6
+6	/		/	6 or above	/	6
+6	/		/	6-10	/	6
+6	/		/	6-12	/	6
+6	/		/	6-13	/	6
+6	/		/	6-15	/	6
+6	/		/	6-19	/	6
+6	/		/	6-7	/	6
+6	/		/	6-8	/	6
+7	/	7 years	/	7	/	7
+7	/		/	7 or above	/	7
+7	/		/	7-10	/	7
+7	/		/	7-8	/	7
+8	/	8 years	/	8	/	8
+8	/		/	8 or above	/	8
+8	/		/	8-10	/	8
+8	/		/	8-12	/	8
+8	/		/	8-13	/	8
+8	/		/	8-15	/	8
+8	/		/	8-9	/	8
+9	/	9 years	/	9 or above	/	9
+9	/		/	9-15	/	9
+10	/	10 years	/	10	/	10
+10	/		/	10 or above	/	10
+10	/		/	10-11	/	10
+10	/		/	10-12	/	10
+10	/		/	10-15	/	10
+10	/		/	10-16	/	10
+10	/		/	10-18	/	10
+10	/		/	10-19	/	10
+11	/	11 years	/		/	11
+12	/	12 years	/	12 or above	/	12
+12	/		/	12-15	/	12
+13	/	13 years	/	13 or above	/	13
+14	/	14 years	/	14 or above	/	14
+15 or above	/	15 years	/	15 or above	/	15 or above
+15 or above	/	16 years	/	16 or above	/	15 or above
+15 or above	/	17 years	/	17 or above	/	15 or above
+15 or above	/	18 years	/	18 or above	/	15 or above
+15 or above	/	19 years	/	19 or above	/	15 or above
+15 or above	/	20 years	/	20 or above	/	15 or above
+15 or above	/	> 20	/		/	15 or above
+NA	/	N/A	/		/	

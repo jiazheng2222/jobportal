@@ -1,0 +1,74 @@
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+     google.charts.load('current', {'packages': ['geochart']});
+     google.charts.setOnLoadCallback(drawMarkersMap);
+
+      function drawMarkersMap() {
+      var data = google.visualization.arrayToDataTable([
+        ['City',   'Salary', 'Area'],
+['ADMIRALTY', 12.3725490196,12.3725490196],
+['AIRPORT', 17.0,17.0],
+['CAUSEWAY BAY', 18.7071428571,18.7071428571],
+['CENTRAL', 22.2433628319,22.2433628319],
+['CHAI WAN', 20.3333333333,20.3333333333],
+['CHEUNG CHAU', 15.8,15.8],
+['CHEUNG SHA WAN', 4.5,4.5],
+['EASTERN', 22.7222222222,22.7222222222],
+['HUNG HOM', 39.3333333333,39.3333333333],
+['KOWLOON', 15.4476744186,15.4476744186],
+['KOWLOON BAY', 20.8333333333,20.8333333333],
+['KWAI FONG', 25.8571428571,25.8571428571],
+['KWAI HING', 8.125,8.125],
+['KWAI TSING', 12.34375,12.34375],
+['KWUN TONG', 13.5666666667,13.5666666667],
+['LAI CHI KOK', 23.1666666667,23.1666666667],
+['MONG KOK', 16.0555555556,16.0555555556],
+['NEW TERRITORIES', 14.0,14.0],
+['NGAU TAU KOK', 9.0,9.0],
+['NORTH POINT', 17.9285714286,17.9285714286],
+['NORTHERN NT', 14.8333333333,14.8333333333],
+['OTHERS', 17.6431937173,17.6431937173],
+['CHINA', 30.75,30.75],
+['QUARRY BAY', 25.4642857143,25.4642857143],
+['SAI KUNG', 14.0,14.0],
+['SHAM SHUI PO', 14.6,14.6],
+['SHATIN', 10.5217391304,10.5217391304],
+['SHAU KEI WAN', 13.25,13.25],
+['SHEUNG WAN', 18.8125,18.8125],
+['SOUTHERN', 21.0,21.0],
+['TAI KOO', 14.75,14.75],
+['TAI PO', 9.16666666667,9.16666666667],
+['TIN SHUI WAI', 12.5,12.5],
+['TSIM SHA TSUI', 19.7962962963,19.7962962963],
+['TSING YI', 10.25,10.25],
+['TSUEN WAN', 16.0263157895,16.0263157895],
+['TUEN MUN', 4.5,4.5],
+['WAN CHAI', 17.9411764706,17.9411764706],
+['WONG TAI SIN', 13.75,13.75],
+['YAU MA TEI', 5.4,5.4],
+['YAU TSIM MONG', 12.537037037,12.537037037],
+['YUEN LONG', 9.5,9.5]
+      ]);
+
+      var options = {
+        region: 'HK',
+        displayMode: 'markers',
+		colorAxis: {colors: ['#00853f', 'black', '#e31b23']},
+		backgroundColor: '#81d4fa',
+		datalessRegionColor: '#f0ede5',
+		defaultColor: '#f5f5f5',
+
+      };
+
+      var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+    };
+    </script>
+  </head>
+  <body>
+    <div id="chart_div" style="width: 900px; height: 500px;"></div>
+  </body>
+</html>
